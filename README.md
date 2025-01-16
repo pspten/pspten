@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pspten
-- 👀 I’m interested in software development, especially in virtual reality environments.
-- 🌱 I’m currently learning Java, C++, and Unity development.
+- 👋 Hi, I’m Tyler, my handle is @pspten.
+- 👀 I’m very interested in software development, specifically coding in Java and C++.
+- 🌱 I am a Computer Science major, with a focus in Software Engineering, with a minor in Philosophy.
 - 📫 Reach me at pspten@gmail.com.
 
 <!---
